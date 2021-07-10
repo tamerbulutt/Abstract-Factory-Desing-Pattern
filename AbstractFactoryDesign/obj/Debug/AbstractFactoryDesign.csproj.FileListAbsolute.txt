@@ -1,0 +1,10 @@
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\bin\Debug\AbstractFactoryDesign.exe.config
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\bin\Debug\AbstractFactoryDesign.exe
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\bin\Debug\AbstractFactoryDesign.pdb
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.csprojAssemblyReference.cache
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.Form1.resources
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.Properties.Resources.resources
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.csproj.GenerateResource.cache
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.exe
+C:\Users\tamer\source\repos\AbstractFactoryDesign\AbstractFactoryDesign\obj\Debug\AbstractFactoryDesign.pdb
